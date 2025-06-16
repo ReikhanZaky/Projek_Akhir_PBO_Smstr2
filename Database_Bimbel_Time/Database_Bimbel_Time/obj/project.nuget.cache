@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "OWp6V/Xm6ug=",
+  "success": true,
+  "projectFilePath": "D:\\uto\\Database_Bimbel_Time\\Database_Bimbel_Time\\Database_Bimbel_Time.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\PREDATOR HELIOS\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\8.0.2\\microsoft.extensions.dependencyinjection.abstractions.8.0.2.nupkg.sha512",
+    "C:\\Users\\PREDATOR HELIOS\\.nuget\\packages\\microsoft.extensions.logging.abstractions\\8.0.2\\microsoft.extensions.logging.abstractions.8.0.2.nupkg.sha512",
+    "C:\\Users\\PREDATOR HELIOS\\.nuget\\packages\\npgsql\\9.0.3\\npgsql.9.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}

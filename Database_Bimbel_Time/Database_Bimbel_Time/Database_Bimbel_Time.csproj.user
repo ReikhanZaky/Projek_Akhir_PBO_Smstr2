@@ -1,0 +1,44 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="Current" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <Compile Update="FormDaftarMurid.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="FormLogin.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="FormMurid.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="FormPengajar.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="FormStaf.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="FormUserBase.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="UCJadwalMurid.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Update="UCJadwalPengajar.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Update="UCJadwalStaf.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Update="UCManajemenMurid.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Update="UCProfilMurid.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Update="UCProfilPengajar.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Update="UCProfilStaf.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+  </ItemGroup>
+</Project>
